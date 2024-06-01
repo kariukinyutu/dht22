@@ -1,0 +1,19 @@
+{
+ "content": null,
+ "creation": "2024-02-10 18:45:40.975920",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2024-02-10 18:45:40.975920",
+ "modified_by": "Administrator",
+ "module": "Dht22",
+ "name": "dht22",
+ "owner": "Administrator",
+ "page_name": "dht22",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 1,
+ "title": "dht22"
+}
